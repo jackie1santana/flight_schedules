@@ -4,5 +4,6 @@
 ***This an Open Source project. I welcome any & all contributions.***
 
 ##### Client side is written in rust & compliled in WebAssembly byte code format
+- `Yew` Rust Wasm Framework
 ##### Server is written in Rust
 
