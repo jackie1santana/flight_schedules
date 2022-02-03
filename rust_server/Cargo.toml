@@ -2,6 +2,10 @@
 name = "rust_server"
 version = "0.1.0"
 edition = "2021"
+author = "Jackie T. Santana"
+repository = "https://github.com/jackie1santana/flight_schedules"
+description = "Flight Schedules"
+license = "GPL v3"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
